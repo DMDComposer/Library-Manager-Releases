@@ -200,14 +200,6 @@ For enhanced waveform generation, install FFmpeg on your system:
 - **🔔 Watch Releases** to get notified of new versions
 - **📱 Follow Development** for behind-the-scenes updates
 
-## 🎵 What Users Are Saying
-
-> _"Finally, a music manager that actually works the way I think. The waveforms are gorgeous and the tagging system is exactly what I needed."_ - Audio Professional
-
-> _"Switched from iTunes and never looked back. This app is fast, beautiful, and doesn't try to sell me anything."_ - Home User
-
-> _"The database backup feature saved my entire music collection when my drive failed. Highly recommend!"_ - Music Collector
-
 ## 🚀 Upcoming Features
 
 ### Coming Soon:
